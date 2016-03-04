@@ -1,0 +1,12 @@
+{
+  "name": "webpack-html-entry-point-plugin",
+  "version": "0.0.1",
+  "description": "Builds HTML entry points (think index.html), one for each asset (e.g. main and test).",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Matt Lee",
+  "license": "",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
